@@ -1,0 +1,26 @@
+// CustomID.cpp: implementation of the CCustomID class.
+//
+//////////////////////////////////////////////////////////////////////
+
+#include "stdafx.h"
+#include "CustomID.h"
+
+#ifdef _DEBUG
+#undef THIS_FILE
+static char THIS_FILE[]=__FILE__;
+#define new DEBUG_NEW
+#endif
+
+//////////////////////////////////////////////////////////////////////
+// Construction/Destruction
+//////////////////////////////////////////////////////////////////////
+
+CCustomID::CCustomID()
+{
+
+}
+
+CCustomID::~CCustomID()
+{
+
+}
